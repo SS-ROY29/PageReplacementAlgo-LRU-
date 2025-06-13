@@ -1,4 +1,4 @@
 # PageReplacementAlgo-LRU-
 Page replacement algorithm using LRU(Least Recently Used)
 
-Update 1: Added GUI for easier Readability and user friendly
+Update 1: Added a GUI for readability and making it user friendly
